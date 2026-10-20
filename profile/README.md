@@ -8,7 +8,7 @@ Whether you need assistance setting up our bots, want to share feedback, or want
 
 ### 🤖 About Our Bots
 
-* ✨ **Namaiki Bot** — *All-in-One Leveling, Economy & Social Engagement*
+✨ **Namaiki Bot** — *All-in-One Leveling, Economy & Social Engagement*
 * 🎨 **Rank & Leveling:** Earn Text & Voice XP, maintain daily streaks, and customize rank cards with canvas visuals.
 * 🪙 **Global Economy:** Collect NamaikiCash through working, robbing, heists, or cash drops.
 * 🐾 **Zoo & Pets System:** Collect 45+ animal species, feed them for passive income, fuse rarities, and enter Zoo Battles.
@@ -20,7 +20,7 @@ https://namaiki.xyz/
 
 ***
 
-* 🏛️ **President Bot** — *Nation-Building & Political Tycoon Game*
+🏛️ **President Bot** — *Nation-Building & Political Tycoon Game*
 * 🌾 **Build Your Nation:** Manage 5 key economic sectors (Agriculture, Industry, Technology, Tourism, Energy) and set tax & budget policies.
 * 💼 **4 Political Ideologies:** Choose between Capitalist, Socialist, Military, or Green strategies to shape your nation.
 * 🚨 **Dynamic Events & Elections:** Handle 90+ real-time crises, protests, and scandals, and run for reelection every 7 days!
