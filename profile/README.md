@@ -38,3 +38,5 @@ https://president.namaiki.xyz/
 ***
 
 🚀 **Join Namaiki Development today and elevate your Discord community!**
+
+https://discord.gg/WQjWWbDEKu
