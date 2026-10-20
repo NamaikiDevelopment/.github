@@ -6,17 +6,6 @@ Whether you need assistance setting up our bots, want to share feedback, or want
 
 ***
 
-### ❓ What Can You Do in This Server?
-
-* 🛠️ **Fast & Dedicated Support** – Having issues with commands or bot setup? Our developer and support team are always ready to help you resolve any problems quickly.
-* 📢 **Official Announcements & Patch Notes** – Be the first to know about new update releases, upcoming features, maintenance schedules, and special events across the Namaiki ecosystem.
-* 💡 **Suggestions & Bug Reports** – Have a feature request or found a bug? Submit your feedback directly to our dev team so we can continuously improve your experience.
-* 💬 **Active & Welcoming Community** – Hang out, chat, and connect with fellow server owners, bot users, and developers in a friendly, chill environment.
-
-https://namaiki.xyz/
-
-***
-
 ### 🤖 About Our Bots
 
 * ✨ **Namaiki Bot** — *All-in-One Leveling, Economy & Social Engagement*
@@ -26,6 +15,10 @@ https://namaiki.xyz/
   * 🎰 **Casino & PvP Arena:** Play Slots, Blackjack, Coinflip, and wager cash in head-to-head duels like Tug of War and Dice.
   * 🎉 **Giveaways & Mini-Games:** Run button-based giveaways paid in NamaikiCash, and play Connect 4, Tic-Tac-Toe, 8-Ball, and more!
   * 🌐 **Web Dashboard:** Manage server configurations and stats directly at namaiki.xyz.
+
+https://namaiki.xyz/
+
+***
 
 * 🏛️ **President Bot** — *Nation-Building & Political Tycoon Game*
   * 🌾 **Build Your Nation:** Manage 5 key economic sectors (Agriculture, Industry, Technology, Tourism, Energy) and set tax & budget policies.
